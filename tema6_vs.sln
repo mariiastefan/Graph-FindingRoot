@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tema6_vs", "tema6_vs.vcxproj", "{C14233C9-E17F-436B-94AB-27940BBA38B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14233C9-E17F-436B-94AB-27940BBA38B1}.Debug|x64.ActiveCfg = Debug|x64
+		{C14233C9-E17F-436B-94AB-27940BBA38B1}.Debug|x64.Build.0 = Debug|x64
+		{C14233C9-E17F-436B-94AB-27940BBA38B1}.Release|x64.ActiveCfg = Release|x64
+		{C14233C9-E17F-436B-94AB-27940BBA38B1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AEE9CE-1723-47C0-8372-8F5923C46265}
+	EndGlobalSection
+EndGlobal
